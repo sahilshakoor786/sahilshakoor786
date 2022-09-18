@@ -1,0 +1,26 @@
+{
+  "name": "Sahil",
+  "version": "1.0.0",
+  "description": "Biography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sahil",
+    "sahilshakoor",
+    "sahil shakoor"
+  ],
+  "author": "sahil shakoor",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dependencies": "^0.0.1",
+    "express": "^4.17.1",
+    "firebase": "^9.8.4",
+    "firebase-tools": "^9.20.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.0"
+  }
+}
